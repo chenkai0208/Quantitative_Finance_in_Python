@@ -7,3 +7,5 @@ This is a simulation of the famous kelly model, which is a formula used to deter
 "bsm_mcs_euro.py": This is a simple application of pricing a European option by Monte Carlo Simulation (https://en.wikipedia.org/wiki/Monte_Carlo_methods_in_finance). Pricing is studied thoroughly in Computational_Finance repository in a C++ configuration.
 
 "ARIMA.py": ARIMA (autoregressive integrated moving average) is a very important model in finance time series analysis (https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average). This program provides the set up of ARIMA model and also a simple optimization framework to search for the optimal parameters in the model.
+
+"portfolio_optimization.py": This is an optimization framework for portfolio construction (https://en.wikipedia.org/wiki/Portfolio_optimization). This program is a test version for our CQA (Chicago Quantitative Alliance) investment challenge.
